@@ -5,4 +5,4 @@
 - 👾 My discord bot - [click](https://github.com/ya-ilya/ya-ilya_bot)
 - 👀 My first python game - [click](https://github.com/ya-ilya/python-game)
 
-[![ya-ilya's github stats](https://github-readme-stats.vercel.app/api?username=ya-ilya)](https://github.com/ya-ilya/ya-ilya) [top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ya-ilya&layout=compact&theme=white)
+[![ya-ilya's github stats](https://github-readme-stats.vercel.app/api?username=ya-ilya)](https://github.com/ya-ilya/ya-ilya) [![ya-ilya's github top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ya-ilya&layout=compact&theme=white)](https://github.com/ya-ilya/ya-ilya)
