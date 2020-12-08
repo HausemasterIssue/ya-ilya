@@ -11,4 +11,4 @@
 -  Discord Utils. I couldn't describe it in one line, for more information, see [here](https://github.com/ya-ilya/discord-utils). [Source code](https://github.com/ya-ilya/discord-utils)
 
 
-![ya-ilya's github stats](https://github-readme-stats.vercel.app/api?username=ya-ilya)](https://github.com/ya-ilya/ya-ilya) [![ya-ilya's github top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ya-ilya&layout=compact&theme=white)](https://github.com/ya-ilya/ya-ilya)
+![ya-ilya's github stats](https://github-readme-stats.vercel.app/api?username=ya-ilya)](https://github.com/ya-ilya/ya-ilya) [![ya-ilya's github top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ya-ilya&layout=compact&theme=white)]
