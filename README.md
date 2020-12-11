@@ -7,7 +7,7 @@
 -  Discord.js Bot. My bot for discord. [Source code](https://github.com/ya-ilya/ya-ilya_bot)
 -  Python Game. Python is a game written in print(). [Source code](https://github.com/ya-ilya/python-game) | [Download](https://github.com/ya-ilya/python-game/archive/second_pre-release-1.0.zip)
 -  Example Pygame. Example of a pygame game. [Source code](https://github.com/ya-ilya/example-pygame)
-- DiamondEconomy. A simple bukkit plugin that adds 2 commands. [Source code](https://github.com/ya-ilya/DiamondEconomy)| [Download](https://github.com/ya-ilya/DiamondEconomy/releases/download/1.0/DiamondEconomy.jar)
+-  DiamondEconomy. A simple bukkit plugin that adds 2 commands. [Source code](https://github.com/ya-ilya/DiamondEconomy) | [Download](https://github.com/ya-ilya/DiamondEconomy/releases/download/1.0/DiamondEconomy.jar)
 -  2b2t Utils. This program shows information about the server 2b2t.org. [Source code](https://github.com/ya-ilya/2b2t-utils) | [Download](https://github.com/ya-ilya/2b2t-utils/releases/download/1.0/2b2tutils.zip)
 -  Discord Utils. I couldn't describe it in one line, for more information, see [here](https://github.com/ya-ilya/discord-utils). [Source code](https://github.com/ya-ilya/discord-utils) | [Download](https://github.com/ya-ilya/discord-utils/archive/1.1.zip) <br> 
 ## Programming languages
